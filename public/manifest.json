@@ -1,0 +1,26 @@
+{
+  "id": "/",
+  "name": "LIFE OS – Personal Life Management",
+  "short_name": "LIFE OS",
+  "description": "Plan Your Life. Build Your Habits. Achieve Your Dreams. Complete life operating system.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#080c16",
+  "theme_color": "#0a0e1a",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ]
+}

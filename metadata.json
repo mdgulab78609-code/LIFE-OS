@@ -1,0 +1,6 @@
+{
+  "name": "LIFE OS",
+  "description": "Plan Your Life. Build Your Habits. Achieve Your Dreams. Complete personal life management, habit tracking, goal planning, and deep work assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
